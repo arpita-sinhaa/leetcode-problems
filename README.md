@@ -32,4 +32,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/1331-rank-transform-of-an-array) |
+## Depth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0547-number-of-provinces) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0547-number-of-provinces) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
