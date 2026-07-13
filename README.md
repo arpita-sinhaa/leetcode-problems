@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0018-4sum) |
 | [0200-number-of-islands](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0994-rotting-oranges) |
 | [1331-rank-transform-of-an-array](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/1331-rank-transform-of-an-array) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0994-rotting-oranges) |
@@ -61,6 +63,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0994-rotting-oranges) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0542-01-matrix) |
 <!---LeetCode Topics End-->
