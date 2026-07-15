@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0127-word-ladder) |
 | [1331-rank-transform-of-an-array](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/1331-rank-transform-of-an-array) |
 ## Depth-First Search
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0542-01-matrix) |
@@ -88,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/3658-gcd-of-odd-and-even-sums) |
+## String
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
