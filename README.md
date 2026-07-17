@@ -94,4 +94,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0127-word-ladder) |
+| [2609-find-the-longest-balanced-substring-of-a-binary-string](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/2609-find-the-longest-balanced-substring-of-a-binary-string) |
 <!---LeetCode Topics End-->
