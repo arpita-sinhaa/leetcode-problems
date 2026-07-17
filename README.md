@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0200-number-of-islands) |
+| [0543-diameter-of-binary-tree](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/1020-number-of-enclaves) |
@@ -101,8 +102,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
