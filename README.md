@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/1020-number-of-enclaves) |
 | [1331-rank-transform-of-an-array](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/1331-rank-transform-of-an-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -91,10 +92,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
 |  |
