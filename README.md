@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0127-word-ladder) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2609-find-the-longest-balanced-substring-of-a-binary-string](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/2609-find-the-longest-balanced-substring-of-a-binary-string) |
 ## Tree
 |  |
@@ -118,4 +119,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
+## Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Greedy
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
