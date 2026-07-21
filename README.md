@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0127-word-ladder) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2609-find-the-longest-balanced-substring-of-a-binary-string](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/2609-find-the-longest-balanced-substring-of-a-binary-string) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Tree
 |  |
 | ------- |
@@ -151,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1661-average-time-of-process-per-machine](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/1661-average-time-of-process-per-machine) |
 | [1757-recyclable-and-low-fat-products](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/1757-recyclable-and-low-fat-products) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
