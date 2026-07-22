@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0075-sort-colors) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [1331-rank-transform-of-an-array](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/1331-rank-transform-of-an-array) |
 ## Linked List
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0127-word-ladder) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [1331-rank-transform-of-an-array](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/1331-rank-transform-of-an-array) |
 ## Depth-First Search
 |  |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0127-word-ladder) |
+| [0451-sort-characters-by-frequency](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2609-find-the-longest-balanced-substring-of-a-binary-string](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/2609-find-the-longest-balanced-substring-of-a-binary-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -158,4 +161,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/3499-maximize-active-section-with-trade-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
