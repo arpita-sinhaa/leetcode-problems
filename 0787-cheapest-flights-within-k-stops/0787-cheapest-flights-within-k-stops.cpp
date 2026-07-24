@@ -1,51 +1,39 @@
 class Solution {
 public:
     int findCheapestPrice(int n, vector<vector<int>>& flights, int src, int dst, int k) {
-        //top priority should be k stop not less dist
-        //no need of pq, queue will automatically put less stop one on top
-        //as while iterating, stops will inc only,it wont dec, so automatically sorted
-
-        //adj list for identifying neigbours
-        vector<vector<pair<int,int>>>adj(n);
-
-        //flights vec is of form(check) from node, to node, wt, so:
+        vector<vector<pair<int, int>>> adj(n);
         for(auto it: flights){
-            int u= it[0];
+            int u=it[0];
             int v=it[1];
-            int wt= it[2];
-            //this line is adding a directed edge from node u to node v with a cost/wt
+            int wt=it[2];
             adj[u].push_back({v,wt});
         }
 
-        // of format {stops,{node, dist}}
-        //queue<pair<int, pair<int,int>>>q;
-         priority_queue<pair<int,pair<int,int>>, vector<pair<int, pair<int,int>>>, greater<pair<int, pair<int,int>>>>pq;
-        pq.push({0,{src, 0}});
+        queue<pair<int, pair<int, int>>>q;
+        q.push({0,{0,src}});
 
-        vector<int>dist(n, INT_MAX);
+        vector<int> dist(n, 1e9);
         dist[src]=0;
 
-        while(!pq.empty()){
-            auto it=pq.top();
-            pq.pop();
+        while(!q.empty()){
+            int stops= q.front().first;
+            int wt=q.front().second.first;
+            int node=q.front().second.second;
+            q.pop();
 
-            int stops= it.first;
-            int node= it.second.first;
-            int cost= it.second.second;
+            if(stops>k) continue;
 
-            if(stops>k) continue; //stop
+            for(auto it: adj[node]){
+                int adjNode= it.first;
+                int adjWt=it.second;
 
-            for(auto i: adj[node]){
-                int adjnode= i.first;
-                int edgwt= i.second;
-
-                if(cost + edgwt < dist[adjnode] && stops<= k){
-                    dist[adjnode]= cost+ edgwt;
-                    pq.push({stops+1 , {adjnode , cost+ edgwt}});
+                if(adjWt + wt< dist[adjNode] && stops<=k){
+                    dist[adjNode]=adjWt+wt;
+                    q.push({stops+1,{dist[adjNode], adjNode}});
                 }
             }
         }
-        if(dist[dst]== INT_MAX) return -1;
+        if(dist[dst]==1e9) return -1;
         else return dist[dst];
     }
 };
