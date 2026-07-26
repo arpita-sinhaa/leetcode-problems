@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0200-number-of-islands) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0542-01-matrix](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0542-01-matrix) |
+| [0628-maximum-product-of-three-numbers](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/1020-number-of-enclaves) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0075-sort-colors) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
+| [0628-maximum-product-of-three-numbers](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/1331-rank-transform-of-an-array) |
 ## Linked List
 |  |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
