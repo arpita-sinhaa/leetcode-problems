@@ -1,10 +1,10 @@
 # Write your MySQL query statement below
-select s.student_id, s.student_name, sub.subject_name, 
+select stu.student_id, stu.student_name,sub.subject_name, 
 count(e.subject_name) as attended_exams
-from Students as s
-cross join Subjects as sub #gives all combinations of all cols of both tables
+from Students as stu
+cross join Subjects as sub #gives all combs of all cols of both tables
 left join Examinations as e
-on s.student_id=e.student_id
+on stu.student_id=e.student_id
 and sub.subject_name=e.subject_name
-group by s.student_id, s.student_name, sub.subject_name
-order by s.student_id, sub.subject_name;
+group by stu.student_id, stu.student_name,sub.subject_name
+order by stu.student_id, sub.subject_name;
