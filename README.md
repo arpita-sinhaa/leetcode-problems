@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0075-sort-colors) |
 | [0130-surrounded-regions](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0130-surrounded-regions) |
+| [0152-maximum-product-subarray](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0200-number-of-islands) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0542-01-matrix](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0542-01-matrix) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0152-maximum-product-subarray](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0152-maximum-product-subarray) |
 | [0542-01-matrix](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Math
