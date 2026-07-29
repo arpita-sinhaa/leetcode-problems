@@ -23,7 +23,7 @@ vector<int> dp;
         dp.assign(n, -1);
         int option1= solve(0, n-2, nums);
 
-        //redeclare for 2nd option as same dp can be used for boht calls
+        //redeclare for 2nd option as same dp cant be used for boht calls
         dp.assign(n,-1);
         int option2= solve(1, n-1, nums);
 
