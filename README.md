@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0062-unique-paths) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0198-house-robber) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0062-unique-paths) |
 | [0628-maximum-product-of-three-numbers](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -223,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/1631-path-with-minimum-effort) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
