@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0931-minimum-falling-path-sum](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0931-minimum-falling-path-sum) |
+| [1143-longest-common-subsequence](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/1143-longest-common-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0127-word-ladder) |
 | [0451-sort-characters-by-frequency](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1143-longest-common-subsequence](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/1143-longest-common-subsequence) |
 | [2609-find-the-longest-balanced-substring-of-a-binary-string](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/2609-find-the-longest-balanced-substring-of-a-binary-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/arpita-sinhaa/leetcode-problems/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Tree
